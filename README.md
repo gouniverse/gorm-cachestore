@@ -1,6 +1,8 @@
-# Cache Store
+# Cache Store using GORM
 
-Cache messages to a database table.
+DEPRECATED. The new library does not use GORM any more and can be found here: https://github.com/gouniverse/cachestore
+
+Cache messages to a database table using GORM.
 
 ## Installation
 ```
